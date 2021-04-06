@@ -16,9 +16,8 @@
 * [License](#License)
 
 ### Usage:
-<ul>
-    none
-</ul>
+
+![demo1](public/assets/images/example.gif)
 
 ### License
 <ul>
