@@ -13,7 +13,6 @@ link to deployed application: https://afternoon-cove-01786.herokuapp.com/
 
 ### Table of Contents
 * [Usage](#usage)
-* [Testing](#testing)
 * [Contributors](#contributors)
 * [License](#license)
 
@@ -29,11 +28,6 @@ link to deployed application: https://afternoon-cove-01786.herokuapp.com/
 ### Contributors:
 
 [@mdu830](https://api.github.com/users/mdu830)
-
-### Testing:
-<ul>
-    none
-</ul>
 
 ### Questions?
 
