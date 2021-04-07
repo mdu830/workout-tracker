@@ -2,8 +2,9 @@
 # Workout Tracker
 
 ![license badge](https://img.shields.io/github/license/mdu830/workout-tracker?color=green)
-
-link to deployed application: https://afternoon-cove-01786.herokuapp.com/
+<ul>
+    link to deployed application: https://afternoon-cove-01786.herokuapp.com/
+</ul>
 
 ### Description: 
 
