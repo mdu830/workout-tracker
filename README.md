@@ -14,6 +14,7 @@ link to deployed application: https://afternoon-cove-01786.herokuapp.com/
 ### Table of Contents
 * [Usage](#usage)
 * [Contributors](#contributors)
+* [Testing](#testing)
 * [License](#license)
 
 ### Usage:
@@ -28,6 +29,17 @@ link to deployed application: https://afternoon-cove-01786.herokuapp.com/
 ### Contributors:
 
 [@mdu830](https://api.github.com/users/mdu830)
+
+### Testing:
+<ul>
+    If you'd like to test the application on your local machine first install node.js. Then git clone the repository, cd into the workout-tracker directory and type "npm install".
+</ul>
+<ul>
+    To populate the database with previous workouts (in the workout-tracker directory) type "node /seeders/seed"
+</ul>
+<ul>
+    After you have installed the application type (in the workout-tracker directory) "node server" to run the application. Then in your web browser go to the address "localhost:3000/" and you should be connected!
+</ul>
 
 ### Questions?
 
